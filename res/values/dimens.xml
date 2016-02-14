@@ -1,0 +1,33 @@
+<resources>
+
+     <dimen name="height_top_bar">48dp</dimen>
+    <dimen name="padding_search_bar">5dp</dimen>
+    <dimen name="height_row_weixin">59dp</dimen>
+    <dimen name="size_avatar">50dp</dimen>
+    <dimen name="margin_chat_activity">5dp</dimen>
+    <dimen name="field_textsize">14sp</dimen>
+    <dimen name="field_margin_right">5dp</dimen>
+    <dimen name="call_button_padding_vertical">10dp</dimen>
+    <dimen name="call_button_padding_left">25dp</dimen>
+    <dimen name="call_button_padding_right">25dp</dimen>
+    <dimen name="sidebar_text_size">10dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+     <dimen name="image_thumbnail_size">100dp</dimen>
+    <dimen name="image_thumbnail_spacing">1dp</dimen>
+<dimen name="large_half">240px</dimen>
+
+    <dimen name="value">45sp</dimen>
+    <dimen name="small_value">30sp</dimen>
+    <dimen name="step_count">30sp</dimen>
+    <dimen name="units">11sp</dimen>
+    <dimen name="desired_pace">36sp</dimen>
+    <dimen name="desired_pace_width">128sp</dimen>
+
+    <dimen name="button">48sp</dimen>
+    <dimen name="button_sign">24sp</dimen>
+
+    <dimen name="margin">10px</dimen>
+    <dimen name="padding">5px</dimen>
+    <dimen name="row_spacing">10px</dimen>
+</resources>
